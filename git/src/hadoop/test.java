@@ -3,7 +3,9 @@ package hadoop;
 public class test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("GOD!!");
+		System.out.println("81 PTS");
+		System.out.println("KOBE");
 
 	}
 
